@@ -1,4 +1,4 @@
 # practice
 
-a beginner just made it to practice
+A beginner, just made it to practice.
 
